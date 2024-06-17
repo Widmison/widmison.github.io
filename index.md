@@ -4,7 +4,7 @@
 I am a junior software developer passionate about creating web applications.
 
 ## Projects
-- **Project 1**: Description and [link](https://github.com/username/project1)
+- **Project 1**: Description and [link](projects/royol-technology.md)
 - **Project 2**: Description and [link](https://github.com/username/project2)
 
 ## Contact
